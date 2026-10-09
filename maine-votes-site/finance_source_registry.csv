@@ -1,0 +1,5 @@
+race,subject,record_type,record_id,official_url,period_start,period_end,interpretation,reviewed_on
+US Senate,Susan Collins,FEC candidate committee,S6ME00159,https://www.fec.gov/data/candidate/S6ME00159/?cycle=2026,2025-01-01,2026-06-30,published historical total; not directly comparable with Jackson unavailable summary,2026-10-09
+US Senate,Troy Jackson,FEC principal campaign committee,C00955609,https://www.fec.gov/data/committee/C00955609/?cycle=2026&tab=filings,,,FEC reports no processed 2025-26 summary at access; not zero dollars,2026-10-09
+Maine state offices,Candidates and committees,Maine Ethics public disclosure,,https://www.mainecampaignfinancedisclosure.com/public,,,consult filing-period reports and distinct outside expenditures,2026-10-09
+Municipal elections,Town and city candidates,Municipal clerk official ballot,,https://www.maine.gov/sos/elections-voting/upcoming-elections,,,Maine SOS explicitly does not administer municipal elections,2026-10-09
